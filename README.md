@@ -1,2 +1,3 @@
-# docs-driverworks-proxyprotocol-dvd
- DVD Player SDK documentation
+# Driverworks Proxy/Protocol Guide - dvd
+
+DVD Player SDK documentation
