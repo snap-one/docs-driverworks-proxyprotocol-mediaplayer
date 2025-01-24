@@ -1,1 +1,1 @@
-# DVD Player Protocol Notifications
+# Media Player Protocol Notifications

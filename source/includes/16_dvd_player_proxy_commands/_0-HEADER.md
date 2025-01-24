@@ -1,1 +1,1 @@
-# DVD Player Proxy Commands
+# Media Player Proxy Commands
