@@ -1,3 +1,3 @@
-# Driverworks Proxy/Protocol Guide - dvd
+# Driverworks Proxy/Protocol Guide - mediaplayer
 
-DVD Player SDK documentation
+Media Player SDK documentation
